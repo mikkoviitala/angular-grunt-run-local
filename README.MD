@@ -2,12 +2,15 @@
 
 #### Usage
 
-Node.js must be installed.<br>
-Go to repository root and type in the following
+Go to repository root. Type in the following to install dependencies
 
-    /* install dependencies */
     npm install -g grunt-cli bower
     npm install
 
-    /* launch app in browser */
+Launch the application in new browser window
+
     grunt app
+
+#### Remarks
+
+Node.js must be installed.
