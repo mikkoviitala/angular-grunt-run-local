@@ -1,0 +1,10 @@
+body {
+  background-color: #BDD9B4;
+  margin: 15px;
+}
+
+header {
+  font-weight: bolder;
+  text-decoration: underline;
+  margin-bottom: 5px;
+}
