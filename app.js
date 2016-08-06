@@ -14,6 +14,6 @@ angular.module('app', [])
       scope: {
         to: '@'
       },
-      template: '<section>Hello <span ng-bind="to"></span></section>'
+      template: '<div>Hello <span ng-bind="to"></span></div>'
     };
   });
