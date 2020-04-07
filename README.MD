@@ -1,3 +1,5 @@
+(This is linked example for my post to now-retired Stack Overflow Decumentation)
+
 ### Run AngularJS application locally using Grunt
 
 #### Usage
