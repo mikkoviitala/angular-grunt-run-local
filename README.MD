@@ -1,4 +1,5 @@
-(This is linked example for my post to now-retired Stack Overflow Decumentation)
+This is linked example to my post in now-retired Stack Overflow Decumentation, archived e.g. in [Rip Tutorials](https://riptutorial.com/angularjs/example/21201/run-application-locally)
+
 
 ### Run AngularJS application locally using Grunt
 
